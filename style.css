@@ -1,0 +1,30 @@
+body{
+    background: wheat;
+}
+main{
+    margin:0 0 0 0;
+    background: rgb(184, 223, 144);
+}
+header{
+    border-radius: 5px;
+    margin: 0 0 0 0;
+    color: black;
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+    background: yellowgreen;
+    height: 100px;
+}
+footer{
+    border-radius: 5px;
+    margin: 0 0 0 0;
+    background: black;
+    color: blue;
+    height: 100px;
+}
+input{
+    color: brown;
+}
+br{
+    margin: 0 0 0 0;
+}
